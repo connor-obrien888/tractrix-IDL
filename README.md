@@ -9,7 +9,7 @@ As of Version 0.1.0, the functions included are:
 Function: tractrix
 Purpose:   Generate a tractrix model magnetopause surface from input
            solar wind parameters. Can generate multiple surfaces from
-           multiple sets of input conditions.
+           multiple sets of input conditions. Units in Earth radii.
 Parameters:
   sin_rec = Sine rectifier of the IMF in nT. 
             Given as Btot * sin^2 (clock angle /2 )
